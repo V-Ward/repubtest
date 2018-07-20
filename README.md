@@ -1,43 +1,43 @@
-# Darknode Hub
+# Darknode Overview
 Welcome to the definitive source of information on Republic Protocol Darknodes.
 
-## Contents
+## Sections
 
 ### 0. Overview
-*0.1.* Introduction
-*0.2.* FAQ
-*0.3.* Reference Links
+#### 0.1. Introduction
+#### 0.2. FAQ
+#### 0.3. Reference Links
 
 ### 1. Apply
-*1.0.* Applying to be a Darknode Operator
-*1.1.* Adding the Republic Protocol Bot
-*1.2.* The application
-*1.3.* The approval process
+#### 1.0. Applying to be a Darknode Operator
+#### 1.1. Adding the Republic Protocol Bot
+#### 1.2. The application
+#### 1.3. The approval process
 
 ### 2. Install
-*2.0.* Installing and deploying a Darknode
-*2.1.* Receiving Kovan Testnet Tokens 
-*2.2.* Setting up Amazon Web Servers (AWS)
-*2.3.* Downloading and installing the Darknode CLI
-*2.4.* Deploy a Darknode
-*2.5.* Depositing ETH to operate Darknode
-*2.6.* Registering a Darknode
+#### 2.0. Installing and deploying a Darknode
+#### 2.1. Receiving Kovan Testnet Tokens 
+#### 2.2. Setting up Amazon Web Servers (AWS)
+#### 2.3. Downloading and installing the Darknode CLI
+#### 2.4. Deploy a Darknode
+#### 2.5. Depositing ETH to operate Darknode
+#### 2.6. Registering a Darknode
 
 ### 3. Operate
-*3.0.* Monitoring and maintaining a Darknode
-*3.1.* List all Darknodes on the network
-*3.2.* Starting a Darknode
-*3.3.* Stopping a Darknode
-*3.4.* Updating a Darknode
-*3.5.* SSH into a Darknode
-*3.6.* Withdrawing funds from a Darknode
-*3.7.* Deploying multiple Darknodes
+#### 3.0. Monitoring and maintaining a Darknode
+#### 3.1. List all Darknodes on the network
+#### 3.2. Starting a Darknode
+#### 3.3. Stopping a Darknode
+#### 3.4. Updating a Darknode
+#### 3.5. SSH into a Darknode
+#### 3.6. Withdrawing funds from a Darknode
+#### 3.7. Deploying multiple Darknodes
 
 ### 4. Destroy
-*4.0.* Deregistering a Darknode and providing feedback
-*4.1.* Destroying a Darknode
-*4.2.* Withdrawing REN from a Darknode
-*4.3.* Providing feedback
+#### 4.0. Deregistering a Darknode and providing feedback
+#### 4.1. Destroying a Darknode
+#### 4.2. Withdrawing REN from a Darknode
+#### 4.3. Providing feedback
 
 
 ## 0.1. Introduction
